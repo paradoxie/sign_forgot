@@ -1,12 +1,12 @@
 {
   "Home": {
     "title": "忘记签到",
-    "description": "Building AI-enhanced tools for the users all over the world. Designing the tools with AI technology, ensuring that our users are always equipped with the latest advancements in AI."
+    "description": "忘记签到 App，您的日常签到管理专家，帮您集中管理所有需要签到的应用，提供智能提醒，确保您不会错过任何重要活动。通过个性化的任务描述和提醒设置，让签到变得简单而高效，释放您的记忆力，优化您的时间管理"
   },
   "About": {
-    "title": "About Us",
+    "title": "关于我们",
     "description": "",
-    "content1": "Welcome to 忘记签到, where a team of tech-savvy experts is on a mission to bring AI-generated technology to the forefront of innovation. Our name is synonymous with cutting-edge AI applications designed to add real value to our users and contribute positively to the world around us.",
+    "content1": "欢迎使用 忘记签到 APP, where a team of tech-savvy experts is on a mission to bring AI-generated technology to the forefront of innovation. Our name is synonymous with cutting-edge AI applications designed to add real value to our users and contribute positively to the world around us.",
     "content2": "At 忘记签到, we're not just building tools; we're crafting solutions that make a difference. Our goal is simple yet profound: to create AI applications that are not just smart, but indispensable to those who use them. With a deep understanding of AI generation technology, we're committed to developing products that are user-friendly, efficient, and powerful.",
     "content3": "Guided by our slogan, ‘Redefining Excellence with AI-Enhanced Tools,’ we strive to exceed expectations and set new standards in the tech industry. We believe that AI has the potential to enhance our lives in ways we've only just begun to imagine, and we're dedicated to making that vision a reality.",
     "content4": "Join us on this journey as we continue to push the limits of what's possible with AI, creating tools that are not just technologically advanced, but that also serve to inspire, educate, and empower.",
@@ -96,13 +96,13 @@
   },
   "Metadata": {
     "home": {
-      "title": "忘记签到 - Redefining Excellence with AI-Enhanced Tools",
-      "description": "Building the AI-Enhanced Tools for users all over the world. Our AI-enhanced tools are designed to evolve with technology, ensuring that our users are always equipped with the latest advancements in AI.",
-      "keywords": "忘记签到, 6677tech.com, ai tools, ai generator, ai tech"
+      "title": "忘记签到 - 您的App签到提醒助手",
+      "description": "忘记签到是一款帮助用户管理手机上多个应用签到任务的智能工具，支持任务集合、一键签到、每日两次提醒，防止用户遗忘重要签到活动，让签到操作更高效、更轻松！适合学生党、上班族及所有有签到需求的人群",
+      "keywords": "忘记签到, 签到提醒工具, Android签到管理, 应用签到助手, 每日提醒, 签到任务管理, 高效签到, 签到不忘记, 应用集中签到, 自动签到助手"
     },
     "about": {
-      "title": "忘记签到 about page",
-      "description": "about our team"
+      "title": "关于我们",
+      "description": "简单介绍一下"
     }
   }
 }
