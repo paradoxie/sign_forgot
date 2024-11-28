@@ -44,6 +44,7 @@ const AboutSectionOne = () => {
 
                   <div className='w-full px-3 sm:w-1/2 lg:w-full xl:w-1/2'>
                     <List text={t('col-two.1')} />
+                    <List text={t('col-two.2')} />
                   </div>
                 </div>
               </div>

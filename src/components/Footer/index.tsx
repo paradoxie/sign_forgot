@@ -90,10 +90,10 @@ const Footer = () => {
       title: t('terms.privacy'),
       href: '/privacy-policy',
     },
-    {
-      title: t('terms.termsConditions'),
-      href: '/terms-of-service',
-    },
+    // {
+    //   title: t('terms.termsConditions'),
+    //   href: '/terms-of-service',
+    // },
   ];
 
   return (
