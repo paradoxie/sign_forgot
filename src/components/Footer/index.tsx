@@ -112,7 +112,7 @@ const Footer = () => {
                     height={30}
                   />
                   <Image
-                    src='/images/logo/logo-2.svg'
+                    src='/images/logo/logo-2-night.svg'
                     alt='logo'
                     className='hidden w-full dark:block'
                     width={140}
