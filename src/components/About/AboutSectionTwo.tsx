@@ -12,7 +12,7 @@ const AboutSectionTwo = () => {
         <div className='-mx-4 flex flex-wrap items-center'>
           <div className='w-full px-4 lg:w-1/2'>
             <a
-              href='https://artiversehub.ai/'
+              // href='https://artiversehub.ai/'
               target='_blank'
               rel='noopener noreferrer'
             >
@@ -21,7 +21,7 @@ const AboutSectionTwo = () => {
                 data-wow-delay='.15s'
               >
                 <Image
-                  src='/images/about/ArtiverrseHub.jpg'
+                  src='/images/about/ArtiverrseHub.png'
                   alt='about image'
                   fill
                   className='drop-shadow-three'

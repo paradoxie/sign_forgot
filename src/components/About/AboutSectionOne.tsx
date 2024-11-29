@@ -52,13 +52,13 @@ const AboutSectionOne = () => {
 
             <div className='w-full px-4 lg:w-1/2'>
               <a
-                href='https://www.animegirl.studio/'
+                // href='https://www.animegirl.studio/'
                 target='_blank'
                 rel='noopener noreferrer'
               >
                 <div className='relative mx-auto aspect-[360/266] max-w-[500px] lg:mr-0 hover:opacity-80'>
                   <Image
-                    src='/images/about/animegirl.jpg'
+                    src='/images/about/animegirl.png'
                     alt='animegirl'
                     fill
                     className='mx-auto max-w-full drop-shadow-three dark:drop-shadow-none lg:mr-0'
