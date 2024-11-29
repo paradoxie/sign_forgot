@@ -14,7 +14,7 @@ const Blog = () => {
   return (
     <>
       <Breadcrumb
-        pageName="博客文章"
+        pageName="教程分享"
         description="探索签到管理的更多妙招！在这里，我们分享签到技巧、使用心得以及高效管理任务的实用方法，让你充分发挥【忘记签到】的潜能。"
         content1="如何通过【忘记签到】提升效率？"
         content2="掌握正确的操作方法，将日常签到从繁琐变为简单。"

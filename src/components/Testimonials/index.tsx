@@ -38,7 +38,7 @@ const Testimonials = () => {
       <div className="container">
         <SectionTitle
           title="用户评价"
-          paragraph="真实用户体验，看看【忘记签到】如何改变他们的生活！\n下载 APP ，你也可以轻松管理签到任务！"
+          paragraph="真实用户体验，看看【忘记签到】如何改变他们的生活！下载 APP ，你也可以轻松管理签到任务！"
           center
         />
 
