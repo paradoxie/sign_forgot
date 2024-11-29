@@ -20,20 +20,20 @@ const Hero = () => {
                 <p className='mb-12 text-base !leading-relaxed text-body-color dark:text-body-color-dark sm:text-lg md:text-xl'>
                   {t('description')}
                 </p>
-                {/* <div className='flex flex-col items-center justify-center space-y-4 sm:flex-row sm:space-x-4 sm:space-y-0'>
+                <div className='flex flex-col items-center justify-center space-y-4 sm:flex-row sm:space-x-4 sm:space-y-0'>
                   <Link
-                    href='https://nextjstemplates.com/templates/saas-starter-startup'
+                    href='https://img.vacg.top/vacg/2024/11/579e1b12813f99425fbc47443dd8fb23.apk'
                     className='rounded-sm bg-primary px-8 py-4 text-base font-semibold text-white duration-300 ease-in-out hover:bg-primary/80'
                   >
-                    🔥 Get Pro
+                    🔥 点击下载
                   </Link>
-                  <Link
+                  {/* <Link
                     href='https://github.com/NextJSTemplates/startup-nextjs'
                     className='inline-block rounded-sm bg-black px-8 py-4 text-base font-semibold text-white duration-300 ease-in-out hover:bg-black/90 dark:bg-white/10 dark:text-white dark:hover:bg-white/5'
                   >
                     Star on GitHub
-                  </Link>
-                </div> */}
+                  </Link> */}
+                </div> 
               </div>
             </div>
           </div>
