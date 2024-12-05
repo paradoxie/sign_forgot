@@ -8,12 +8,12 @@ const blogData: Blog[] = [
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet dictum neque, laoreet dolor.",
     image: "/images/blog/blog-01.jpg",
     author: {
-      name: "Samuyl Joshi",
+      name: "Paradoxie",
       image: "/images/blog/author-01.png",
-      designation: "Graphic Designer",
+      designation: "欢迎体验",
     },
-    tags: ["creative"],
-    publishDate: "2025",
+    tags: ["教程"],
+    publishDate: "2024",
   },
   {
     id: 2,
@@ -22,12 +22,12 @@ const blogData: Blog[] = [
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet dictum neque, laoreet dolor.",
     image: "/images/blog/blog-02.jpg",
     author: {
-      name: "Musharof Chy",
-      image: "/images/blog/author-02.png",
-      designation: "Content Writer",
+      name: "Paradoxie",
+      image: "/images/blog/author-01.png",
+      designation: "欢迎体验",
     },
-    tags: ["computer"],
-    publishDate: "2025",
+    tags: ["教程"],
+    publishDate: "2024",
   },
   {
     id: 3,
@@ -36,12 +36,12 @@ const blogData: Blog[] = [
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet dictum neque, laoreet dolor.",
     image: "/images/blog/blog-03.jpg",
     author: {
-      name: "Lethium Deo",
-      image: "/images/blog/author-03.png",
-      designation: "Graphic Designer",
+      name: "Paradoxie",
+      image: "/images/blog/author-01.png",
+      designation: "欢迎体验",
     },
-    tags: ["design"],
-    publishDate: "2025",
+    tags: ["教程"],
+    publishDate: "2024",
   },
 ];
 export default blogData;

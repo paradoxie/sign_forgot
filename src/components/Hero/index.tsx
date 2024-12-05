@@ -22,7 +22,7 @@ const Hero = () => {
                 </p>
                 <div className='flex flex-col items-center justify-center space-y-4 sm:flex-row sm:space-x-4 sm:space-y-0'>
                   <a
-                    href='https://img.vacg.top/vacg/2024/11/579e1b12813f99425fbc47443dd8fb23.apk'
+                    href='https://img.vacg.top/vacg/2024/12/d8da2f00d75e8f4eaaaca18b7fa1b42a.apk'
                     className='rounded-sm bg-primary px-8 py-4 text-base font-semibold text-white duration-300 ease-in-out hover:bg-primary/80'>
                     🔥 点击下载
                   </a>
