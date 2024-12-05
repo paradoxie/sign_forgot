@@ -44,7 +44,7 @@ const SingleBlog = ({ blog }: { blog: Blog }) => {
             </div>
             <div className="inline-block">
               <h4 className="mb-1 text-sm font-medium text-dark dark:text-white">
-                Date
+                发布日期
               </h4>
               <p className="text-xs text-body-color">{publishDate}</p>
             </div>
