@@ -3,10 +3,10 @@ import { Blog } from "@/types/blog";
 const blogData: Blog[] = [
   {
     id: 1,
-    title: "Best UI components for modern websites",
+    title: "忘记签到 APP使用教程",
     paragraph:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet dictum neque, laoreet dolor.",
-    image: "/images/blog/blog-01.jpg",
+      "介绍一些产品设计和操作逻辑，帮您快速发车上路",
+    image: "/images/blog/blog-03.jpg",
     author: {
       name: "Paradoxie",
       image: "/images/blog/author-01.png",
@@ -17,9 +17,9 @@ const blogData: Blog[] = [
   },
   {
     id: 2,
-    title: "9 simple ways to improve your design skills",
+    title: "忘记签到 APP使用体验分享",
     paragraph:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet dictum neque, laoreet dolor.",
+      " ",
     image: "/images/blog/blog-02.jpg",
     author: {
       name: "Paradoxie",
@@ -31,16 +31,16 @@ const blogData: Blog[] = [
   },
   {
     id: 3,
-    title: "Tips to quickly improve your coding speed.",
+    title: "忘记签到 APP产品简介",
     paragraph:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sit amet dictum neque, laoreet dolor.",
-    image: "/images/blog/blog-03.jpg",
+      "说说为什么做了这个产品，以及后续的产品思路",
+    image: "/images/blog/blog-01.jpg",
     author: {
       name: "Paradoxie",
       image: "/images/blog/author-01.png",
       designation: "欢迎体验",
     },
-    tags: ["教程"],
+    tags: ["简介"],
     publishDate: "2024",
   },
 ];
